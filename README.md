@@ -15,7 +15,7 @@ To install utShinyMods, you can use the `install_github()` function from the `de
 install.packages("devtools")
 
 # Install utShinyMods
-devtools::install_github("dsu-effectiveness/utShinyMods")
+devtools::install_github("cyberLaVoy/utShinyMods")
 ```
 
 ## Usage
